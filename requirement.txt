@@ -4,3 +4,7 @@ type
 color
 dark mode
 vedio calls
+
+payment option
+send money 
+recieve money   
